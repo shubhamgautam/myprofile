@@ -1,0 +1,5 @@
+#sideNav{
+  -webkit-transition-timing-function: linear;
+  transition-timing-function: linear;
+  height:100vh;
+}
